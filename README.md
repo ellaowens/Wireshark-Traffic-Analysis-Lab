@@ -149,6 +149,8 @@ View → Internals → Supported Protocols.
 Using Reference Materials:
 Utilized a Wireshark cheat sheet to ensure precise syntax for display filters.
 
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/6b414d83-c653-4e93-9206-680546f79c24">
+
 <img width="605" alt="image" src="https://github.com/user-attachments/assets/691207f0-fe08-44a5-a10a-cd5637b1a4b9">
 
 ##
